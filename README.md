@@ -13,7 +13,7 @@ This Tic-Tac-Toe Web Applicatiois an interactive and visually appealing game bui
 🤖 AI Difficulty Levels:  
 Easy Mode: Random moves  
 Medium Mode: Mix of strategies  
-Hard Mode: Unbeatable AI using **Minimax Algorithm  
+Hard Mode: Unbeatable AI using Minimax Algorithm  
 
 🎨 UI & Visual Enhancements:  
 💡 Thinking Animation for AI moves  
