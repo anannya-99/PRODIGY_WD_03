@@ -39,7 +39,7 @@ JavaScript – Game Logic, Minimax Algorithm, DOM Manipulation
 4. The game automatically detects wins, draws, and switches turns.  
 5. Click **Reset** to start a new match.  
 
- 📂 Installation & Setup  
+📂 Installation & Setup  
 1. Clone the repository:  
    
    git clone https://github.com/anannya-99/PRODIGY_WD_03.git
