@@ -1,7 +1,7 @@
 🎮 Interactive Tic-Tac-Toe Web Application  
 
 📌 About  
-This Tic-Tac-Toe Web Applicatiois an interactive and visually appealing game built using HTML, CSS, and JavaScript. It features **multiple difficulty levels, an unbeatable AI (Minimax Algorithm), and smooth UI animations, ensuring an engaging user experience.  
+This Tic-Tac-Toe Web Applicatiois an interactive and visually appealing game built using HTML, CSS, and JavaScript. It features multiple difficulty levels, an unbeatable AI (Minimax Algorithm), and smooth UI animations, ensuring an engaging user experience.  
 
 ✨ Features  
 
